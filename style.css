@@ -1,0 +1,10 @@
+span {
+  display: inline-block;
+}
+body {
+  text-align: center;
+}
+
+#pics span {
+  border: 1px solid black;
+}
